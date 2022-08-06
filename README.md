@@ -19,9 +19,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmia-rahman&show_icons=true&locale=en&layout=compact" alt="tasmia-rahman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasmia-rahman&" alt="tasmia-rahman" /></p>
+<br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmia-rahman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tasmia-rahman" height="192px"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasmia-rahman&" alt="tasmia-rahman" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasmia-rahman" alt="tasmia-rahman" /></a> </p>
 
