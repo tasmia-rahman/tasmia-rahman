@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **trmaliha6@gmail.com**
 
-- ⚡ Fun fact **Food addict**
+- ⚡ Fun fact: **Food addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
