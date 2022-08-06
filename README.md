@@ -21,7 +21,7 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmia-rahman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tasmia-rahman" height="192px"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmia-rahman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tasmia-rahman" height="192px"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasmia-rahman&" alt="tasmia-rahman" /></p>
 
