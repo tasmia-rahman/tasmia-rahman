@@ -22,9 +22,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmia-rahman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tasmia-rahman" height="192px"/></p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tasmia-rahman&theme=algolia" alt="tasmia-rahman" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tasmia-rahman&theme=algolia" alt="tasmia-rahman" /></p>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasmia-rahman&layout=compact&theme=algolia" alt="tasmia-rahman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasmia-rahman&layout=compact&theme=algolia" alt="tasmia-rahman" /></a> </p>
 
