@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node, Express**
 
-- 📫 How to reach me **trmaliha6@gmail.com**
+- 📫 How to reach me **maliha1288@gmail.com**
 
 - ⚡ Fun fact: **Food addict**
 
