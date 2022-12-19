@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **React, Node, Express**
+- 🌱 I’m currently learning **React, Node, Express, MongoDB**
 
 - 📫 How to reach me **maliha1288@gmail.com**
 
